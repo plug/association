@@ -9,4 +9,4 @@ Son siège social est
 > 13001 Marseille  
 > France
 
-Les statuts sont [disponibles ici](/statuts.md "statuts de l'association").
+Les statuts sont [disponibles ici](/statuts.md "statuts de l'association") et [sur le site](http://plugfr.org/association/statuts/).
